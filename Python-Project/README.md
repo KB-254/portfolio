@@ -32,7 +32,10 @@ The dataset includes information on coffee shop sales transactions, such as prod
 - **Seaborn & Matplotlib:** For data visualization.
 
 ## Jupyter Notebook
-The analysis for this project was conducted using a Jupyter Notebook. You can view and interact with the notebook directly [here](https://github.com/KB-254/portfolio/blob/main/Coffee%20Shop%20Sales%20Python%20Portfolio%20Project.ipynb)
+The analysis for this project was conducted using a Jupyter Notebook. You can view and interact with the notebook directly ## Coffee Shop Sales Python Portfolio Project
+
+You can view the Coffee Shop Sales Python Portfolio Project [here](https://github.com/KB-254/portfolio/blob/main/Python-Project/Coffee%20Shop%20Sales%20Python%20Portfolio%20Project.ipynb)
+
 
 ### How to Run the Notebook
 1. Clone the repository to your local machine.
