@@ -1,3 +1,4 @@
+https://github.com/KB-254/portfolio/blob/main/MySQL-Projects/MySQL%20Portfolio%20Project.sql
 # MySQL Layoffs Data Cleaning and Analysis Project
 
 ## Project Overview
