@@ -7,6 +7,8 @@ This project involves cleaning and analyzing a dataset of layoffs using MySQL. T
 - **Data Cleaning:** The data cleaning process involves creating staging tables, removing duplicates, standardizing data, and handling null or blank values. 
 - **Exploratory Data Analysis (EDA):** Various SQL queries are used to analyze the cleaned data, providing insights such as the total number of layoffs per company, industry, and country, as well as trends over time.
 
+You can view the SQL scripts used for this project in the [MySQL Projects folder](https://github.com/KB-254/portfolio/tree/main/MySQL-Projects).
+
 ## SQL Scripts
 - **1. Data Cleaning:**
   - Created staging tables to preserve the original data.
@@ -37,4 +39,5 @@ This project involves cleaning and analyzing a dataset of layoffs using MySQL. T
 This project showcases the process of cleaning and analyzing a real-world dataset using SQL. The skills demonstrated include data cleaning, transformation, and exploratory analysis, which are essential for data-driven decision-making.
 
 ## Contact
-For any questions or further discussion, feel free to reach out to me through [GitHub](your-github-profile-link).
+For any questions or further discussion, feel free to reach out to me through [GitHub](https://github.com/KB-254).
+
